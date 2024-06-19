@@ -1,4 +1,4 @@
 # SOC-imgcartoonifier
 Summer of code | 1st Year
 <br>
-Author: Prabhat
+Author: Prabhat Kumar
