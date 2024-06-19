@@ -1,6 +1,10 @@
 # SOC-imgcartoonifier
 Summer of code | 1st Year
 <br>
-Author: Prabhat Kumar
+Name: Prabhat Kumar
 <br>
-College:IITB
+Roll No: 23b0660
+<br>
+Project Nmae: Image Cartoonifier
+<br>
+
